@@ -11,7 +11,7 @@ import se.kth.iv1350.POS.model.PaymentObserver;
  */
 
 public abstract class PaymentView implements PaymentObserver {
-	double currentRevenue;
+	protected double currentRevenue;
 	
 	/**
 	 * The method from the observer interface that is called when the the observed classes is getting a payment
