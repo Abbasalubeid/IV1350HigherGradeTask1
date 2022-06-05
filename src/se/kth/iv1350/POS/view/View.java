@@ -6,7 +6,7 @@ import se.kth.iv1350.POS.integration.exceptions.InvalidIdentifierException;
 import se.kth.iv1350.POS.integration.exceptions.OperationFailedException;
 
 /**
- * This is a placehodlder for the real view. It contains a hardcoded execution
+ * This is a sample of the real view. It contains a hardcoded execution
  * with calls to all system operations in the controller
  * 
  * @author abbas
